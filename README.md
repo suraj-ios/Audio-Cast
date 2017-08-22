@@ -15,4 +15,4 @@ Step to resolved this issues:-
 
 
 # Code understanding 
-1.Code is very simple to understand, it has writtend in appdelegate and Viewcontroller.swift file.
+1.Code is very simple to understand, it has written in appdelegate and Viewcontroller.swift file.
